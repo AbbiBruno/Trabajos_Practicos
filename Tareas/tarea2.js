@@ -20,4 +20,7 @@ switch (true){
         case salas == 4:
         document.write("Compraste 1 crédito:\n Acceso a Arcade!");
         break;
+        default:
+        alert("El dato ingresado no es válido");
+        break;
 }
