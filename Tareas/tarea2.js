@@ -10,7 +10,6 @@ switch (true){
         case salas == 1:
         document.write("Compraste 4 créditos:\n Acceso a todas nuestras salas!\ Arcade, Consolas, Rol y Realidad Virtual!");
         break;
-
         case salas == 2:
         document.write("Compraste 3 créditos:\n Acceso a Arcade, Consolas y Rol!");
         break;
