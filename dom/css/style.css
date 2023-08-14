@@ -1,0 +1,45 @@
+
+
+
+body{
+    font-family:sans-serif;
+    margin-left: 1rem;
+   
+}
+#clic{
+    text-align: center;
+   
+}
+
+
+#parrafo{
+    margin-top: 5rem;
+    margin-left: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#reloj {
+    font-family:'Droid Sans', Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 2px solid rgba(255, 71, 148, 0.521);
+    font-size: 1.7rem;
+    color: #880d63;
+    text-shadow: 0 0 20px rgb(219, 81, 150),  0 0 20px rgba(241, 68, 184, 0.384);}
+
+
+   
+
+   
+
+
+ 
